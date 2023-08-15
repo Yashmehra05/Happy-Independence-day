@@ -1,0 +1,29 @@
+*{
+    background: url('https://img.freepik.com/premium-vector/seventy-five-75-years-indian-independence-day-greeting-design-logo_428817-478.jpg?w=740');
+   margin-left: 30%;
+}
+.nav-link {
+    display: block;
+    justify-content: center;
+    padding: 0.5em;
+    margin-right: 120%;
+    margin-left: -80%;
+    margin-top: 120%;
+    border: 0;
+    line-height: 1.5;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-image: linear-gradient(to top left, green, whitesmoke 30%, orange);
+    box-shadow:
+      inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+      inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  }
+  
+  .nav-link:hover {
+    transition: transform(-17px);
+    background-color: linear-gradient( green, whitesmoke 30%, orange);
+  }
+ 

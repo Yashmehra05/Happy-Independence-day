@@ -1,0 +1,91 @@
+body{
+    background: url('https://img1.picmix.com/output/stamp/normal/6/4/4/1/501446_1e72c.gif');
+}
+#pic1 img{
+    margin-left: 40%;
+    height: 10%;
+    width: 10%;
+}
+#pic2 img{
+    margin-left: 37%;
+    height: 10%;
+    width:10%;
+}
+#pic3 img{
+    margin-left: 34%;
+    height: 10%;
+    width: 10%;
+}
+#pic4 img{
+    margin-left: 31%;
+    height: 10%;
+    width: 10%;
+}
+#pic5 img{
+    margin-left: 28%;
+    height: 10%;
+    width: 10%;
+}
+#pic6 img{
+    margin-left: 25%;
+    height: 10%;
+    width: 10%;
+}
+#pic7 img{
+    margin-left: 50%;
+    height: 10%;
+    width: 10%;
+}
+#pic8 img{
+    margin-left: 53%;
+    height: 10%;
+    width: 10%;
+}
+#pic9 img{
+    margin-left: 56%;
+    height: 10%;
+    width: 10%;
+}
+#pic10 img{
+    margin-left: 59%;
+    height: 10%;
+    width:10%;
+}
+#pic11 img{
+    margin-left: 62%;
+    height: 10%;
+    width: 10%;
+}
+#pic12 img{
+    margin-left: 65%;
+    height: 10%;
+    width: 10%;
+}
+#poc2 img{
+    margin-left:3%;
+    height: 50%;
+    width: 20%;
+}
+#poc3 img{
+    margin-top: -20%;
+    margin-left: 75%;
+    height: 50%;
+    width: 20%;
+}
+.container{
+    display: inline-flex;
+    margin-left: 17%;
+}
+#meranaa{
+    margin-left: 37%;
+    margin-top: -15%;
+
+}
+#meranaa img{
+    height: 60%;
+    width: 40%;
+}
+.para h5{
+ font-size: 70%;
+ font-weight: 700;   
+}
